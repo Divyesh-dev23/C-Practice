@@ -8,7 +8,7 @@ int main(){
     scanf("%s", str);
 
     while(str[i]!='\0'){
-        i++
+        i++;
     }
 
     printf("Length of the string is: %d",i);
